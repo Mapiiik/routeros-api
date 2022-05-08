@@ -36,8 +36,8 @@
         }
     ],
     "autoload": {
-        "classmap": [
-            "routeros_api.class.php"
-        ]
+        "psr-4": {
+            "Mapiiik\\": "src/"
+        }
     }
 }
