@@ -8,7 +8,6 @@
     "type": "library",
     "support": {
         "issues": "https://github.com/Mapiiik/routeros-api/issues",
-        "wiki": "http://wiki.mikrotik.com/wiki/API_PHP_class",
         "source": "https://github.com/Mapiiik/routeros-api"
     },
     "authors": [
