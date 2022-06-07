@@ -1,5 +1,5 @@
 {
-    "name": "mapiiik/routeros-api",
+    "name": "mapik/routeros-api",
     "description": "Client API for RouterOS/Mikrotik",
     "keywords": [
         "routeros",
@@ -33,6 +33,10 @@
         {
             "name": "Mikhail Moskalev",
             "url": "mmv.rus@gmail.com"
+        },
+        {
+            "name": "Martin Patočka",
+            "email": "mapik@mapik.net"
         }
     ],
     "autoload": {
